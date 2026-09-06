@@ -1,0 +1,6 @@
+{
+  "name": "Meyra AI Plant Doctor",
+  "description": "AI Plant Health Clinic & Agronomist for Ethiopian Smallholder Farmers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
